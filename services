@@ -1,0 +1,10 @@
+-MAIL-Server
+-DNS-Server
+-File-Server
+-WEB (rails/apache unsure yet) (DB and subsystems too)
+-SSH connection
+-GIT REPO host
+-Timemachine backup from MAC-OS-X
+-IRC-middleman
+-AP (secure, mac-address, ...)
+-NAT
