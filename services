@@ -9,3 +9,5 @@
 -AP (secure, mac-address, ...)
 -NAT
 -daily backups
+-puppet
+

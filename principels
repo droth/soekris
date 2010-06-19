@@ -1,0 +1,5 @@
+IDEA:
+-any service is a module
+-each module can be enabled/disabled
+-each module can be switched to a different host without an impact on the functionality (eg move the file-server to a new host, should not impact clients)
+
