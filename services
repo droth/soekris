@@ -6,8 +6,8 @@
 -GIT REPO host
 -Timemachine backup from MAC-OS-X
 -IRC-middleman
--AP (secure, mac-address, ...)
--NAT
--daily backups
+-AP (secure, mac-address, ...) (pkg hostapd)
+-NAT (FW pkg iptables)
+-daily backups (pkg ccollect)
 -puppet
 
