@@ -4,7 +4,7 @@
 -WEB (rails/apache unsure yet) (DB and subsystems too)
 -SSH connection
 -GIT REPO host
--Timemachine backup from MAC-OS-X (http://www.kremalicious.com/2008/06/ubuntu-as-mac-file-server-and-time-machine-volume/)
+-Timemachine backup from MAC-OS-X (http://www.kremalicious.com/2008/06/ubuntu-as-mac-file-server-and-time-machine-volume/) (http://ubuntuforums.org/showthread.php?t=410274)
 -IRC-middleman
 -AP (secure, mac-address, ...) (pkg hostapd->configured (not visible, can not connect))
 -NAT (FW pkg iptables)
