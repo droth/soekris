@@ -1,0 +1,3 @@
+gdisk /dev/DEV
+mkfs.ext4 /dev/DEV
+
