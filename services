@@ -1,13 +1,13 @@
--MAIL-Server
+-MAIL-Server (dovecot, postfix)
 -DNS-Server
--File-Server (http://www.howtoforge.com/ubuntu-home-fileserver-p3)
--WEB (apache) (DB and subsystems too)
+-File-Server (http://www.howtoforge.com/ubuntu-home-fileserver-p3 ,automount (autofs))
+-WEB (lighttpd) (DB and subsystems too)
 -SSH connection
 -GIT REPO host
 -Timemachine backup from MAC-OS-X (http://www.kremalicious.com/2008/06/ubuntu-as-mac-file-server-and-time-machine-volume/) (http://ubuntuforums.org/showthread.php?t=410274)
--IRC-middleman
+-IRC-middleman (quasselcore)
 -AP (secure, mac-address, ...) (pkg hostapd->configured (not visible, can not connect))
 -NAT (FW pkg iptables)
 -daily backups (pkg ccollect)
 -puppet
-
+-root-ca (https://help.ubuntu.com/community/OpenSSL)
