@@ -1,3 +1,5 @@
 gdisk /dev/DEV
+nano /etc/fstab
 mkfs.ext4 /dev/DEV
+blkid
 
