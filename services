@@ -10,4 +10,4 @@
 -NAT (FW pkg iptables)
 -daily backups (pkg ccollect)
 -puppet
--root-ca (https://help.ubuntu.com/community/OpenSSL)
+-root-ca (https://help.ubuntu.com/community/OpenSSL http://kremvax.net/howto/ssl-openssl-ca.html)
