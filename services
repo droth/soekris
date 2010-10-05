@@ -6,7 +6,7 @@
 -GIT REPO host
 -Timemachine backup from MAC-OS-X (http://www.kremalicious.com/2008/06/ubuntu-as-mac-file-server-and-time-machine-volume/) (http://ubuntuforums.org/showthread.php?t=410274)
 -IRC-middleman (quasselcore)
--AP (secure, mac-address, ...) (pkg hostapd->configured (not visible, can not connect))
+-AP (secure, mac-address, ...) (pkg hostapd->configured (not visible, can not connect)) (IPsec for security)
 -NAT (FW pkg iptables)
 -daily backups (pkg ccollect)
 -puppet

@@ -1,0 +1,19 @@
+dyndns 
+	tool
+		ddclient
+
+dns
+	tool
+		bind
+
+
+ap
+	tool
+		hostapd
+
+	howto
+		basics -> http://blog.dinotools.de/2010/03/25/access-point-mit-hostapd-unter-linux-betreiben
+		basics (madwifi) -> http://blog.robin.smidsrod.no/index.php/2008/08/08/how_to_setup_an_atheros_based_access_poi
+		basics (compiling) -> http://acx100.erley.org/stable.html
+		radius -> http://ubuntuforums.org/showthread.php?t=151781
+		
