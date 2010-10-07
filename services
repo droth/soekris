@@ -10,4 +10,5 @@
 -NAT (FW pkg iptables)
 -daily backups (pkg ccollect)
 -puppet
--root-ca (https://help.ubuntu.com/community/OpenSSL http://kremvax.net/howto/ssl-openssl-ca.html)
+-root-ca (https://help.ubuntu.com/community/OpenSSL http://kremvax.net/howto/ssl-openssl-ca.html http://www.zytrax.com/tech/survival/ssl.html)
+-networking (http://www.yolinux.com/TUTORIALS/LinuxTutorialNetworking.html)
