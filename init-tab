@@ -1,0 +1,3 @@
+update-rc.d <app-name> defaults
+
+https://trac.transmissionbt.com/wiki/Scripts/initd
